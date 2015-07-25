@@ -1,5 +1,5 @@
 <?php 
-//require("config.inc.php");
+require("config.php");
 
 $shop_ID_counter = 0;
 $shop_name_counter = 0;
