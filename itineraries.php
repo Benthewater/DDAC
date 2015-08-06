@@ -107,19 +107,61 @@
 						<td><b>Cost</b></td>
 					</tr>
 					<tr>
-						<td><b>I001</b></td>
-						<td><b>September</b></td>
-						<td><b>Pool Party, Magic Shows</b></td>
-						<td><b>5 days</b></td>
-						<td><b>RM 300.00</b></td>
+						<td>I001</td>
+						<td>September</td>
+						<td>Pool Party, Magic Shows</td>
+						<td>5 days</td>
+						<td>RM 300.00</td>
 					</tr>
 					<tr>
-						<td><b>I002</b></td>
-						<td><b>September</b></td>
-						<td><b>Casino, Children Playground</b></td>
-						<td><b>3 days</b></td>
-						<td><b>RM 250.00</b></td>
+						<td>I002</td>
+						<td>September</td>
+						<td>Casino, Children Playground</td>
+						<td>3 days</td>
+						<td>RM 250.00</td>
 					</tr>
+					<tr>
+						<td>I003</td>
+						<td>October</td>
+						<td>Pool Party, Magic Shows</td>
+						<td>5 days</td>
+						<td>RM 300.00</td>
+					</tr>
+										<tr>
+						<td>I004</td>
+						<td>October</td>
+						<td>Casino, Children Playground</td>
+						<td>3 days</td>
+						<td>RM 250.00</td>
+					</tr>
+										<tr>
+						<td>I005</td>
+						<td>November</td>
+						<td>Pool Party, Magic Shows</td>
+						<td>5 days</td>
+						<td>RM 300.00</td>
+					</tr>
+										<tr>
+						<td>I006</td>
+						<td>November</td>
+						<td>Casino, Children Playground</td>
+						<td>3 days</td>
+						<td>RM 250.00</td>
+					</tr>
+										<tr>
+						<td>I007</td>
+						<td>December</td>
+						<td>Pool Party, Magic Shows</td>
+						<td>5 days</td>
+						<td>RM 300.00</td>
+					</tr>
+					<tr>
+						<td>I008</td>
+						<td>December</td>
+						<td>Casino, Children Playground</td>
+						<td>3 days</td>
+						<td>RM 250.00</td>
+					</tr>					
 				</table>
 
             </div>
